@@ -34,4 +34,5 @@ CFL coefficient = 1.91625
 A CFL number of 1.91625 suggests that the time step used in the numerical scheme is close to the upper limit of stability. 
 In other words, the numerical solution may be unstable and the results obtained may be inaccurate. 
 Therefore, it may be necessary to reduce the time step used in the numerical scheme to achieve a lower CFL number and ensure numerical stability.
-![Temperature Distribution of Pipe over Time](/imgs/simul.pmg)
+![Temperature Distribution of Pipe over Time](https://github.com/spade0211/Simulation-of-Steel-Rod-Heating-and-Temperature-Distribution-Visualization/assets/60582215/d4c64960-10b5-4fc5-8685-c04c1f1059bf)
+
